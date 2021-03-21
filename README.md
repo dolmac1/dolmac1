@@ -8,7 +8,7 @@
 ![dolmac1's github stats](https://github-readme-stats.vercel.app/api?username=dolmac1&show_icons=true)
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dolmac)](https://solved.ac/dolmac)
+<!--[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dolmac)](https://solved.ac/dolmac)-->
 
 [c++](https://github.com/dolmac1/PROGRAMMING/tree/master/c%2B%2B)
 
