@@ -10,8 +10,6 @@
 
 <!--[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dolmac)](https://solved.ac/dolmac)-->
 
-[velog](https://velog.io/@dolmac)
-
 [c++](https://github.com/dolmac1/PROGRAMMING/tree/master/c%2B%2B)
 
 [c](https://github.com/dolmac1/PROGRAMMING/tree/master/c)
